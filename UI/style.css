@@ -1,0 +1,22 @@
+#page-bd{
+	background: rgb(124, 221, 111);
+}
+#row-1{
+	margin: 2% 0 5% 0;
+	padding: 5px;
+	color: #fff;
+	font-weight: bold;
+}
+#nav-menu{
+	padding: 1%;
+}
+#nav-menu li a{
+	color: #fff;
+}
+#nav-menu li a:hover{
+	color: brown;
+	text-decoration: none;
+}
+#nav-btn{
+	background: #333;
+}
